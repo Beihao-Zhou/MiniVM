@@ -1,0 +1,7 @@
+add_test([=[VMTest.InitializationTest]=]  /Users/beihaozhou/Projects/miniVM/build/vm_test [==[--gtest_filter=VMTest.InitializationTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VMTest.InitializationTest]=]  PROPERTIES WORKING_DIRECTORY /Users/beihaozhou/Projects/miniVM/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VMTest.PopObjectTest]=]  /Users/beihaozhou/Projects/miniVM/build/vm_test [==[--gtest_filter=VMTest.PopObjectTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VMTest.PopObjectTest]=]  PROPERTIES WORKING_DIRECTORY /Users/beihaozhou/Projects/miniVM/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VMTest.CyclicalReferenceTest]=]  /Users/beihaozhou/Projects/miniVM/build/vm_test [==[--gtest_filter=VMTest.CyclicalReferenceTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VMTest.CyclicalReferenceTest]=]  PROPERTIES WORKING_DIRECTORY /Users/beihaozhou/Projects/miniVM/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  vm_test_TESTS VMTest.InitializationTest VMTest.PopObjectTest VMTest.CyclicalReferenceTest)

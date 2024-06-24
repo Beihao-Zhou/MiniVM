@@ -1,0 +1,4 @@
+VMTest.InitializationTest 8 0.000436818
+VMTest.CyclicalReferenceTest 6 0.000373708
+VMTest.PopObjectTest 3 0.00367704
+---

@@ -1,0 +1,5 @@
+/Users/beihaozhou/Projects/miniVM/build/CMakeFiles/vm_lib.dir
+/Users/beihaozhou/Projects/miniVM/build/CMakeFiles/vm_test.dir
+/Users/beihaozhou/Projects/miniVM/build/CMakeFiles/test.dir
+/Users/beihaozhou/Projects/miniVM/build/CMakeFiles/edit_cache.dir
+/Users/beihaozhou/Projects/miniVM/build/CMakeFiles/rebuild_cache.dir
