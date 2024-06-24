@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libvm_lib.a CMakeFiles/vm_lib.dir/src/vm.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libvm_lib.a

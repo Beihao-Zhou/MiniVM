@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/vm_test.dir/tests/vm_test.cpp.o -o vm_test  libvm_lib.a /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a
